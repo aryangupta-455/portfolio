@@ -1,9 +1,13 @@
-import React from 'react'
+import Navbar from "../navbar/Navbar"
+import Skills from "../skills/Skills"
+import Projects from '../projects/Projects'
 
 export default function Home() {
   return (
     <div>
-      home
+      <Navbar/>
+      <Skills/>
+      <Projects/>
     </div>
   )
 }

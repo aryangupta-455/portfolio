@@ -1,9 +1,9 @@
-import React from 'react'
-
 export default function Skills() {
   return (
     <div>
-      skills
+      <section id='skills' className='card'>
+        Skills
+      </section>
       
     </div>
   )
