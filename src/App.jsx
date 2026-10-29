@@ -3,7 +3,9 @@ import './App.css'
 function App() {
   return (
     <>
-      <Home/>
+      <main className="page-content">
+        <Home />
+      </main>
     </>
   )
 }
