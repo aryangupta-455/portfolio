@@ -8,13 +8,13 @@ export default function Hero() {
             <h3>
               Hello, I am Aryan Gupta
               <span className="span_text">
-                Java Full Stack Developer and ML/DS Engineer
+                Java Full Stack Developer and ML Engineer
               </span>
             </h3>
 
             <p>
-              Full Stack Developer and Machine Learning Enthusiast
-              focused on creating responsive web applications,
+              Full Stack Developer and Machine Learning Engineer
+              focused on building responsive web applications,
               AI-powered systems, and data-driven solutions
               that deliver meaningful impact.
             </p>
@@ -26,7 +26,7 @@ export default function Hero() {
           </div>
 
           <div className="hero-image">
-            <img src="src\assets\profile_02.jpg" alt="Profile" />
+            <img src="src\assets\Portrait.png" alt="Profile" />
           </div>
         </div>
       </section>

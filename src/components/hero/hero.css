@@ -1,10 +1,10 @@
 /* Main Hero Section */
 .hero {
     width: 100%;
-    min-height: 90vh;
+    min-height: 70vh;
     display: flex;
     align-items: center;
-    padding: clamp(20px, 5vw, 80px);
+    padding: clamp(20px, 5vw, 70px);
 }
 
 /* Hero Content */
@@ -62,7 +62,7 @@
 }
 
 .hero-image img {
-    width: clamp(200px, 35vw, 450px);
+    width: clamp(200px, 35vw, 350px);
     aspect-ratio: 1;
     object-fit: cover;
     border-radius: 50%;

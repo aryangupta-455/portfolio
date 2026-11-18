@@ -1,0 +1,19 @@
+#about
+{   max-width: 100%;
+    margin: 0 auto;
+    padding: 4rem;
+    color: white;
+    background-color: rgb(32, 31, 31);
+}
+
+#about h2 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+}
+
+#about p {
+    font-size: 1rem;
+    line-height: 1.7;
+    color: #ccc;
+    margin-bottom: 1rem;
+}
